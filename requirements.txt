@@ -1,0 +1,9 @@
+holoviews
+panel
+matplotlib
+scipy
+numpy
+pandas
+geopandas
+bokeh
+plotly
