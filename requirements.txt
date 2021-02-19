@@ -9,3 +9,5 @@ bokeh
 plotly
 ipympl
 xarray
+netcdf4
+hvplot
