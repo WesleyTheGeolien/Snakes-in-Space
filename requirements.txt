@@ -8,3 +8,4 @@ geopandas
 bokeh
 plotly
 ipympl
+xarray
