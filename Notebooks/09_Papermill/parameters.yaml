@@ -1,0 +1,5 @@
+DATASET:  ~/Downloads/SST_38Ma/NCAR_TS_monthly.nc
+VARIABLE: TS
+multiple_values:
+    - 1
+    - "Hello Wesley yaml"
